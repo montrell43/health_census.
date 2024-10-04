@@ -1,0 +1,7 @@
+echo "# health_census." >> README.md
+git init
+git add READDME.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/montrell43/health_census..git
+git push origin -u main
